@@ -93,7 +93,7 @@ A empresa identificou uma **taxa de churn de 23%** e precisa:
 ecoconsult-data-analysis/
 │
 ├── data/
-│   ├── raw/                    # Dados originais (se houver)
+│   ├── raw/                    # Dados originais
 │   ├── processed/              # Dados processados
 │   └── database/               # Exports do banco
 │
@@ -155,7 +155,7 @@ sudo -u postgres psql
 
 # Crie banco e usuário
 CREATE DATABASE ecoconsult_db;
-CREATE USER ecoconsult_user WITH PASSWORD 'sua_senha';
+CREATE USER ecoconsult_user WITH PASSWORD 'inserir uma senha';
 GRANT ALL PRIVILEGES ON DATABASE ecoconsult_db TO ecoconsult_user;
 \q
 ```
@@ -315,26 +315,15 @@ Real Não-Churn    11       4
 - Possibilidade de **reduzir churn em 10-15%** com ações direcionadas
 - **ROI estimado** de campanhas de retenção: 3x
 
----
 
-##  Próximos Passos
-
-- [ ] Migrar banco para **Supabase** (cloud)
-- [ ] Criar **dashboard interativo** com Streamlit
-- [ ] Desenvolver **API REST** para predições em tempo real
-- [ ] Implementar **sistema de alertas** automáticos
-- [ ] Realizar **A/B testing** de estratégias de retenção
-- [ ] Integrar com **CRM** da empresa
-
----
 
 ##  Contato
 
 **Seu Nome**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfssoares/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/matheus-felipe-soares)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheusfsilvasoares@gmail.com)
 
 ---
 
@@ -342,6 +331,6 @@ Real Não-Churn    11       4
 
 ###  Se este projeto foi útil, considere dar uma estrela!
 
-**Desenvolvido com  por [Seu Nome]**
+**Desenvolvido com  por [Matheus Soares]**
 
 </div>
