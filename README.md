@@ -342,6 +342,6 @@ Real Não-Churn    11       4
 
 ###  Se este projeto foi útil, considere dar uma estrela!
 
-**Desenvolvido com 💚 por [Seu Nome]**
+**Desenvolvido com  por [Seu Nome]**
 
 </div>
