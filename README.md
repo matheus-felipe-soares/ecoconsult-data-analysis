@@ -35,6 +35,7 @@
 ##  Sobre o Projeto
 
 Este projeto demonstra um **pipeline completo de Data Science**, desde a geração de dados fictícios até o desenvolvimento de um modelo preditivo de churn. O objetivo é identificar clientes com maior probabilidade de cancelamento, permitindo ações proativas de retenção.
+Este projeto é uma replicação de atividades realizadas no meu dia a dia consolidadas.
 
 ### Destaques do Projeto:
 
